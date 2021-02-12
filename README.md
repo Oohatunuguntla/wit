@@ -1,7 +1,7 @@
 # wit
 Women Safety App
 Make sure you installed flutter 
-Technoligies:Flutter,Firebase
+Technoligies:Flutter,Firebase<br>
 Prototype link:
 https://docs.google.com/document/d/1K0OOLph58L4sceie47ogxahwLiCs25nHUsJHIPbwLzg/edit?usp=sharing
 App demo:
